@@ -1,0 +1,3 @@
+I was thinking about things from the perspective of the technocrat pricing scheme. The whole idea of energy expenditure as a way of evaluating prices. The problem with that is energy is expended in nearly every aspect of the production process and keeping track of that is a herculean task requiring presumbaly a General Intelligence.
+
+But why not just simplify it to labor? It takes <x> time units to produce a particular things therefore, that is its cost at that location. If it takes, <x> time units to distribute it, divide it across the things being transported and you have its distribution cost. More efficient workers will have lower prices. Then the real issue just becomes differences in pricing for their labor. 

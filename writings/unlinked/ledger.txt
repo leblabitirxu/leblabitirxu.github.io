@@ -1,0 +1,15 @@
+Blockchain was the tech darling of the 2010s. I don't know if anything truly world-changing actually got implemented in it besides cryptocurrency though. 
+
+The idea for my system is basically the same thing but instead of a currency, you're just using blockchain to keep track of transactions. In this case, a transaction is a number you're allocating to someone else's account in exchange for some good or service or vice versa. Say, you wanna buy a sack of grain. You would go to a person with the grain, transfer X amount of credits from your account over to theirs and take the grain.
+
+Your identity is tied to your fingerprint and facial recogntion when joining and your access is regulated through a unique key of your devising.
+
+New people can join only by being invited. The person inviting is vouching that they personally know that person and are vouching for their character. 
+
+There are verified and unverified transactions. Verfied transactions require an intermediary to vouch that the transaction is actually legitimate and not false. This is to prevent people from doing fake transactions with puppet accounts to increase their credit arbitrarily.
+
+Verified transactions are only required when you are at the bottom 10% of accounts in terms of balances. Each account will have a relative position in relation to the other accounts in the system and the bottom 10% will only be able to do transactions if they are verified. It may be necessary at some later date to require this for all accounts with negative balances. 
+
+Verifications are done through moderators in the system. Moderation privileges can be given by any other moderator but must be voted in through majority vote of moderators.
+
+

@@ -1,0 +1,28 @@
+The Attendant and the Stuzi
+    Egalitarian Governance by Design
+
+ Making decisions within an organization is a messy and bureaucratic thing. Normally, decision-making is streamlined through authority, but since we are focusing more on egalitarian solutions, the ideal form of decision making will be unanimous voting.
+
+Voting will be done in the central area of the monastery. There will be an area set aside specifically for voting. If a person wishes to start a vote, they just write what the vote is "grant such and such to be papermaking attendant", timestamp and sign their name. Then they ring the vote bell on the desk. (It's not to call everyone for a vote. It's just to let people know a vote is waiting when they're able.) Everyone signs their name. Majority votes close at dusk the following day. Unanimous votes close either when everyone has signed or at dusk ten days later, whichever comes first. 
+
+To ensure decisions are made efficiently, any member who does not cast a vote by the deadline is counted as voting “no.” This reflects a lack of active support or interest in the proposal. Persistent non-participation signals apathy, which the community recognizes as a concern requiring attention.
+
+In the interest of streamlining the process further, rubber stamps should be created for each individual so they don't have to physically sign multiple votes. Ballots should be archived for posterity.
+
+Unanimous voting is slow. There will almost always be disagreement. My solution is to create the role of attendant. This grants them authority within a certain subset of actions to act unilaterally without anyone's input but they would still need a majority vote for decisions that would require more resources from the monastery. The main idea is just to streamline unanimous voting to a majority without creating a dictatorship of the mob. Decisions from an attendant that affect everyone and will potentially have far reaching consequences will still have to be unanimous. An attendant's area of authority is referred within the monastery as their stuzi.
+
+To give an example, an individual could be named an attendant for papermaking. This means that they'd be able to set the quantity of stock relevant to its production and dictate the prioritization and quality requirements of production. All of this is within their authority and would be at their discretion. If they were to increase the input stock (requiring more resources from the monastery) or require more space for papermaking, this would require a majority vote. If they required new machinery that would have a significant cost for the monastery, this would require a unanimous vote.
+
+The process of granting attendant begins with a vote. A person cannot start a vote for themselves to be attendant. The actions that allow them unilateral authority and the actions that would require a majority vote are described as part of the monastery charter. If they haven't been created yet, that would also need to be created before the vote can proceed. 
+
+To clarify, the role of attendant does not entitle them to other individual's labor. It allows them to set the guidelines for their behavior while within their stuzi in order to make production more efficient. It also allows them to bar a particular person from working in their stuzi but not conscript labor. 
+
+This might seem exclusionary and hierarchical, but the labor pool will be, presumably, very small. And it's all opt-in. No one's being coerced to work. They work either because they like the labor itself or because they want to help the community. An attendant barring someone from the labor pool would be an extreme measure and counterproductive to their responsibilities.
+
+Eventually, with a large enough size to justify its creation, the monastery itself would require an attendant of its own. In the context of what I've just said regarding the role of attendant, their role would be much more custodial (ensuring basic maintenance work for the monastery would be completed). They'd also mitigate disputes and represent the monastery to the larger public. This role should only be enacted when all other avenues have been exhausted. Like any attendant, they can be removed from their role with a unanimous vote. 
+
+Anyone can formally petition an attendant for a particular action within their stuzi and it is at an attendant's discretion if and how they respond to it. Attendants hold a duty of care within their stuzi, and failure to meet this responsibility is grounds for removal by unanimous community vote. The role of attendant is removed or  granted unanimously unless the monastery's attendant starts the vote. In which case, it can be granted through majority vote.
+
+An attendant can transfer their role to another individual with a majority vote. Otherwise, it requires a unanimous vote.
+
+Attendants do not rule their stuzi. They care for them, temporarily holding responsibility on behalf of the community that entrusted it to them.
