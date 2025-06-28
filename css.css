@@ -1,0 +1,72 @@
+a:visited {
+  color: darkgrey;
+  font-style:italic;  
+}
+a {
+  color: black;
+  font-style:italic;  
+}
+a.menu {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+div, h1 {
+    margin-bottom: 20px;  
+  }
+
+  #time {
+    font-size: 30px;
+    text-align:center;
+  }
+
+
+  #alarms, #universalTime{
+    font-size: 75px;
+  }
+
+  .achieved {
+    color: green;
+  }
+
+
+  .active{
+    text-decoration: underline;
+    font-weight: bold;
+  }
+
+  .category, .quitTitle {
+    font-style: italic;
+    font-weight: bold;
+
+  }
+
+  .center {
+    text-align:center;
+  }
+
+  .completed {
+    text-decoration: line-through;
+
+  }
+
+  .info{
+    margin-left: 50px;
+  }
+
+  .name{
+    margin-left: 20px;
+  }
+
+  .note, .todo {
+    color: grey;
+    margin-left: 50px;
+  }
+  .stop {
+    color:red;
+  }
+
+  .timedOut{
+    background-color: red;
+  }
+
