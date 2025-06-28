@@ -1,72 +1,120 @@
-a:visited {
-  color: darkgrey;
-  font-style:italic;  
+/* css.css */
+
+/* Basic Reset */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
+
+body {
+  font-family: 'Segoe UI', Tahoma, sans-serif;
+  background-color: #f4f4f9;
+  color: #333;
+  line-height: 1.6;
+  padding: 2rem;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.subtitle {
+  text-align: center;
+  color: #777;
+  margin-bottom: 2rem;
+}
+
+h3 {
+  font-size: 1.25rem;
+  margin-top: 2.5rem;
+  margin-bottom: 0.75rem;
+  text-align: center;
+  color: #444;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.25rem;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0.5rem auto;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  text-align: center;
+}
+
+.menu {
+  text-decoration: none;
+  color: #555;
+  font-size: 0.9rem;
+  margin-top: 1rem;
+}
+
+.time-display {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+input[type="text"] {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  min-width: 200px;
+  font-size: 1rem;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  background-color: #008080;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #006666;
+}
+
 a {
-  color: black;
-  font-style:italic;  
-}
-a.menu {
-  margin-right: 10px;
-  margin-bottom: 10px;
+  color: #0066cc;
+  text-decoration: none;
 }
 
-div, h1 {
-    margin-bottom: 20px;  
+a:hover {
+  text-decoration: underline;
+}
+
+#alarms, #timers, #convertResult {
+  margin-top: 1rem;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+/* Responsive tweaks */
+@media (max-width: 600px) {
+  body {
+    padding: 1rem;
   }
 
-  #time {
-    font-size: 30px;
-    text-align:center;
-  }
-
-
-  #alarms, #universalTime{
-    font-size: 75px;
-  }
-
-  .achieved {
-    color: green;
-  }
-
-
-  .active{
-    text-decoration: underline;
-    font-weight: bold;
-  }
-
-  .category, .quitTitle {
-    font-style: italic;
-    font-weight: bold;
-
+  input[type="text"] {
+    min-width: 100%;
   }
 
   .center {
-    text-align:center;
+    flex-direction: column;
+    align-items: stretch;
   }
 
-  .completed {
-    text-decoration: line-through;
-
+  button {
+    width: 100%;
   }
-
-  .info{
-    margin-left: 50px;
-  }
-
-  .name{
-    margin-left: 20px;
-  }
-
-  .note, .todo {
-    color: grey;
-    margin-left: 50px;
-  }
-  .stop {
-    color:red;
-  }
-
-  .timedOut{
-    background-color: red;
-  }
-
+}
