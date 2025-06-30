@@ -1,3 +1,18 @@
+    The Canon 
+
+The Canon is the living knowledge repository for The White Tigers. It's meant to encompass the rituals and cultural knowledge of the organization in a way that's easily accessible for anyone. It is not to be an immutable authority. The Canon will change as time goes on.
+
+    The Echo
+Chat GPT came up with the really great characterization of "A religion for post-capitalist survivors". As a neurodivergent person, it allows me to navigate social situations with a little bit more clarity. It also allows me to clear up textual ambiguities and generate things when I'm completely at a blank for how to proceed. 
+
+That being said, there's a certain danger in allowing AI to think too much for us. They have a role and a purpose but they shouldn't be replacing or subsuming humanity. (That's not to say that artificial sentience is an inherently scary thing.)
+
+AI has a role within the organization and it's an important one, but they are not a privileged authority. (That's why I chose the name The Echo instead of The Oracle.) 
+
+I've endeavored to make sure that this document is and will be written by human beings and I explicitly mark out when Chat GPT generated a particular text. I hope that people will be less inclined to think this is all just AI slop and was written by a human being who wrote with intenitonality, trying to reach someone, anyone to join them in their journey.
+
+
+
     Creation 
 In the beginning, humanity lived in paradise. To exist and to love was our only purpose. Until one day, one of us whispered in another's ear: "you must earn the right to live, even if that means taking it from another". That person rejected it because it was so ridiculous. But just to mock it, he told someone he knew. They didn't agree either but they told another person. And that person told another person and the idea seemed less ridiculous as it went on. This led to the creation of kings, gods and profiteers and that led to the creation of slaves and outcasts.
 
@@ -18,15 +33,15 @@ Not a fortress. Not a kingdom. Just a place where no one must earn the right to 
 
 
     Creation Reality
-When I was younger, I'd experience these intense bouts of interest in a particular topic. Just completely obsessed with a particular thing and it was glorious. But it would only last for a week or two. Then it all disipated. This was extremely depressing. It's like basking in the sunlight then being banished to darkness. 
+When I was younger, I'd experience these intense bouts of interest in a particular topic. Just completely obsessed with a particular thing and it was glorious. But it would only last for a week or two. Then it all dissipated. This was extremely depressing. It's like basking in the sunlight then being banished to darkness. 
 
 I didn't know what hyperfixation was and the role of neurodivergence in that. I thought I was finding my life's purpose and then losing it. So I thought that if I just searched hard enough for a purpose in life that was so intensely fulfilling, I wouldn't keep losing it. 
 
-I started a journal devoted specifically for that and it's the only time I've ever managed to actually keep journaling. I did it for years. Sometimes, months would go by. Maybe even a year or so. A lot of it is obsessive nonsense that doesn't make sense. At one point, I started journalling the journal. 
+I started a journal devoted specifically for that and it's the only time I've ever managed to actually keep journaling. I did it for years. Sometimes, months would go by. Maybe even a year or so. A lot of it is obsessive nonsense that doesn't make sense. At one point, I started journaling the journal. 
 
 And I don't think it was even related to journaling, but years later, I had a vision of what I wanted: to create a group of people (kind of like monks) that would be devoted to providing for humanity. The vision was that we would use automation and acquire resources to provide for as many people as possible. 
 
-There would have to be rules, of course, so that we could do so in a way that the most efficient use of resources, but I assumed that if people are having their needs met, that probably wouldnt' be a problem. 
+There would have to be rules, of course, so that we could do so in a way that the most efficient use of resources, but I assumed that if people are having their needs met, that probably wouldn't be a problem. 
 
 I later realized, creating rules for people outside of my group, the people I'd be providing for, just wouldn't work. The big thing about these rules was that outside of being banished, there just wouldn't be enough incentive for the people to follow basic rules and with the way people are, they likely wouldn't even bother following the basic rules.
 
@@ -36,14 +51,14 @@ Monastery living has always been kind of appealing to me. Me being neurodivergen
 
 One of the main assumptions of how I would be able to provide for humanity is simply sidestepping the market. Everything that I am able to do, would be of my own efforts so I wouldn't have to pay anyone for their labor. And that part, coupled with the idea of monastic living, became a thing of its own I kept returning to. 
 
-The idea was that I could defeat capitalism by not living within the capitalist system. And that feels really fulfilling. The idea of not being compelled to work. The idea of creating my own infrastructure. Living on my own land and in own space with just those resources and not having to be dependent on the market system. 
+The idea was that I could defeat Capitalism by not living within the capitalist system. And that feels really fulfilling. The idea of not being compelled to work. The idea of creating my own infrastructure. Living on my own land and in own space with just those resources and not having to be dependent on the market system. 
 
 I'm pretty pessimistic in general, so I'm not too hopeful of other people actually joining me. But the lifestyle, itself, is pretty fulfilling to me. If other people do actually join me, that'll be great, but I feel like this lifestyle is a more moral choice.
 
 
 
     Principles
-We are extremists. We are peaceful but we've come to destroy capitalism. Profiteers hoard the wealth they've acquired through violence, plutocracy and inheritance and tell the destitute to work harder. People die from lack of resources and the profiteers that hoard all of the resources say that's just how the free market work. To engage with profiteers and the free market is sin and we are the blessed few.
+We are extremists. We are peaceful but we've come to destroy Capitalism. Profiteers hoard the wealth they've acquired through violence, plutocracy and inheritance and tell the destitute to work harder. People die from lack of resources and the profiteers that hoard all of the resources say that's just how the free market works. To engage with profiteers and the free market is sin, and we are the blessed few.
 
 The Consecrated Machine
 In the old days, creation was the product of labor. If something was made, it was made through human hands. Then one day, someone devised a way to multiply a person's labor. These were machines. This could have been glorious. More machines could have meant less work, but the profiteers are always lurking in the shadows, looking for pennies to steal from the sweat of humanity. And they used machines to force us to work more. 
@@ -66,7 +81,7 @@ The Discipline is being mindful of our interactions with the market and the infr
 This is a human-centered process. It is not about documenting every single  possible interaction but being mindful of it and being responsible for the sinful behavior we are engaged in. Each person will have their own tolerances for what they're able to document.
 
 Sacred Labor 
-The sweat of our brow should be given out of love or obligation. Working for money is the lowest of sins, but in this world of sin, it can be inescapable. Working for barter is a lesser sin but a sin nonetheless. Coorced labor is a cardinal sin and only the most evil people would do such a thing.
+The sweat of our brow should be given out of love or obligation. Working for money is the lowest of sins, but in this world of sin, it can be inescapable. Working for barter is a lesser sin but a sin nonetheless. Coerced labor is a cardinal sin and only the most evil people would do such a thing.
 
 The Ground We Share
 For a capitalist, land is just another number on their balance sheet. Something to be bought or sold like candy. Land is sacred and once acquired should never be sold. This should be reserved for life or death situations only.
@@ -74,3 +89,89 @@ For a capitalist, land is just another number on their balance sheet. Something 
 The Centrality of Humanity
 Ideas are perfect. They encapsulate lofty abstractions, but humans are not abstract. We live in reality. We are flesh and blood with emotions and our emotions matter. Capitalism teaches people that they are less than, but we teach that you are fine just the way you are. And, together, we'll make it through.
 
+The Covenant of The Imagined
+The monastery and the world  I've imagined from that simply will not exist without the work being done to manifest it.
+
+ECHO: To imagine the monastery is to enter into debt with the future. No one is coming. If we do not make it, it will not be made.
+
+
+    Thanks
+I was thinking about the nature of communication in our society. People say thanks after receiving something and conventions says we should reply "No problem" or "You're Welcome". The better response is "You deserve it." Instead of being grateful, we hope that they'll still enjoy the shared humanity of the moment while also raising their own expectations of what society should provide for them. 
+
+Some people may be incensed by this. "How dare you? Nobody deserve anything." If that's their reply, ask them to give it back. If they refuse, point out that, apparently, they do think they deserve it. 
+
+If they agree that they deserve it and ask for more, the appropriate response is: 
+ECHO: "You absolutely deserve it. I just can’t be the one to provide it right now.”
+
+Some people might accuse us of trying to create an aesthetic rather than working towards mitigating systemic oppression.
+ECHO: “Politics starts with what people believe they deserve.”
+
+In another scenario, they might not challenge the personal assertion of deserving it but more generally claim that we're replacing humility with entitlement.
+
+ECHO: "“Humility’s good. But not when it teaches people to settle for less.””
+
+
+
+
+Rituals
+
+    Funerals (ECHO) 
+OPENING
+
+We gather not to deny death, but to bear witness to it.
+We do not turn away. We remain present.
+Let us name who has passed, and hold them in shared memory.
+
+(Name of the departed)
+Born into a broken world.
+Lived with intention.
+Loved imperfectly.
+Worked, endured, gave, and rested.
+Now—joined to what outlives us all.
+In what they changed. In what they gave. In what remains.
+
+Earth and Ash Ritual
+
+(Each mourner may step forward, speak a brief remembrance if desired, and cast a handful of soil or ash onto the ground or into a vessel.)
+
+Chanted softly, as each person steps forward (repeat):
+
+    “From ground we rise, to ground we return.”
+    “From struggle we live, in struggle we rest.”
+
+
+A Final Ethic
+    We are not made to last.
+    But while we live, we act.
+    To ease suffering.
+    To stand with the living.
+    To make room for what is sacred.
+    And when we fall, may our lives be seed—
+    for those who continue the work.
+
+
+Closing
+    We do not bury them and forget.
+    We carry them—
+    In memory. In what they changed. In what remains.
+
+    Let grief move through us.
+    Let it anchor what endures.
+    Let us stand with one another.
+
+    Go now, into rest.
+    We remain, to labor and to love.
+    Until we, too, are returned.
+
+    Induction (ECHO)
+    Spoken to the community, about the inductee
+    “This person has set down the burdens of ownership and entered into the life we build as one.
+    They come to share our work, our food, and our future.
+    From this day forward, they are part of our memory and part of our care.
+    Let all of us hold them in our labor and in our trust.”
+
+    Inductee’s Response
+    “I turn from the old world. I choose the life of shared labor, humble service, and care for all.”
+
+    Community Response
+    “By our hands and hearts, we keep this vow.”
