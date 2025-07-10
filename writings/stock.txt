@@ -1,0 +1,18 @@
+In a capitalist system, production is oriented around the market. There are different approaches. Some just produce and look for the market afterwards. Others produce just in time to go to the market. Either way, it's all about going to market.
+
+How do you guide production without a market? Obviously, demand is what you're producing for, but what does that really mean? Demand is an abstract concept and you can't always build things when the demand hits. (because then it's too late)
+
+What I figured out was a stock-based system where reserves throughout the  production pipeline are maintained and production is based off of fulfilling those reserves.
+
+To explain, say you have widgets that have a full stock of ten. (full stock is the maximum amount) The current inventory is five. That means your goal is to reach ten. If you were already at ten, you don't need to worry about it.
+
+During the course of events, you run out then that means you need to increase the full stock for that item. If stock goes to waste, (either through decay or some other reason) you reduce full stock. Now, the full stock should b e reduced, but what's even more important is establishing the reason for the waste. (if its related to improper storage or something like that.)
+
+An important consideration of stock in general is setting quality guidelines. A widge is a widget, but it needs to the right widget. Each item produced needs to be ensured that it fits these quality guidelines and quality guidelines are set both as part of the production process and from input from the consumer.
+
+In addition to priorizing production by fulfilling full stock, attendants can request additional help with labor but no one is to be made to feel compelled to work.
+
+For shared resources, (resources that are required by multiple production streams) there will be a general stock available to the monastery and stock specific to the stuzi. (Otherwise, all stock remains as property of a stuzi.) General stock is under the domain of the monastery attendant.
+
+
+Depletion and waste are not supposed to represent demand but rather being prepared for demand.

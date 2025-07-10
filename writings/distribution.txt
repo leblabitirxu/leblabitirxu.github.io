@@ -1,0 +1,70 @@
+How We Distribute: Credits, Labor, and Goods
+    The Sacred Trust and the Flow of Goods
+
+
+    The Problem with Traditional Distribution
+I've had this idea for a distribution system for a very long time. It's a blockchain ledger for distribution outside of the market system. The problem was my original thinking behind it allowed pricing to be set like a regular command economy and there was no sure foundation. Also, the ledger itself was used as just a form of accounting. Numbers on a sheet.
+
+This new idea, the blockchain ledger keeps track of all debts and all debt is tied to time spent in labor, or credits. Credits are purely for distribution. Not for accumulation and hoarding. Debt in this sense isn't a financial debt. It's just a quantitative way to keep track of what you owe the community.
+
+
+    Credits, Labor, and The Sacred Trust
+
+    The Role of Attendants
+
+    Monks, Outsiders, and the Flow of Goods
+
+     Hierarchy Without Superiority
+
+      When Labor Can’t Be Measured
+
+Monks of The White Tiger Monastery work to create as part of The Consecrated Machine and the amount of time they spend producing a particular thing is kept track of. This is its cost. This is The Sacred Trust.
+
+The Sacred Trust dictates that an individual will always keep track of the amount of time spent in labor accurately and fairly. It is just as big a sin to decrease the time spent as it is to increase it. Accurately measuring is one half of The Sacred Trust, but efficiency is the other half. A person who purposely takes more time or resources than what is actually needed is just as bad as someone flagrantly lying about it.
+
+The Sacred Trust is how we protect ourselves from profiteers. In a profiteer's world, profit is their god. The poor are its sacrifice. Violations of The Sacred Trust are one of the gravest offenses possible and can lead to that person being shunned and excommunicated.
+
+    Production and Credit Calculation
+
+It works like this: a monk spends an hour working on building a widget. That widget is now worth one credit. Not a half credit. Not two. One. The monk gives it to the monastery and the monastery debits them one credit. This is the simplest form of production.
+
+The world is not simple though. Suppose a monk needs resources in order to create something and they get that from the monastery. If the monk uses Resource A costing 3 credits and Resource B costing 2 credits to make a widget and it takes them 3 hours. This widget is worth 8 credits and the monk would receive 3 credits for their work.
+
+
+
+I'm referring to 'the monastery' when I talk about who gives out credit but while working on this document, I realized one thing: attendants divvy out credit. Originally, I had conceived it as an honor system, but if someone arbitrarily feels that a particular type of work is worth working on but everyone else feels it is not a public good, they don't deserve credit for that. Attendants can gatekeep the process and ensure that credit is being spent only on material production. The main purpose of credit is to accurately price goods.
+
+
+    Consecrated Goods vs. Outsider Goods
+
+These goods are called Consecrated Goods because they are part of The Consecrated Machine. Things we receive from outsiders in exchange for a reasonable market value in credits (or a reasonable amount equivalent to dollars in credits) are referred to as Outsider Goods. 
+
+A point of clarity on this system:  a monk will still receive food and shelter and care from the monastery regardless of what their credit is. They can be in the negative and as long as their standing and behavior within the monastery is fine, it shouldn't be an issue. Credit is used by a monk for resources they will personally use, like food. 
+
+An attendant oversees the production process for their station and is primarily responsible for tracking, requesting and guiding labor. They also have a responsibility to communicate their workflow process with The Echo to ensure that production is as efficient as possible and that accurate records are being kept. In lieu of an attendant, monks still must maintain The Sacred Trust, themselves.
+
+
+
+Now if you're paying attention, monks will receive credits from the monastery, so that creates a pretty large deficit on the monastery's behalf. Monks will, ideally, be working every day so this will just get bigger and bigger. This creates an incentive for the monastery to trade out - with other monasteries or to like-minded outsiders. The monastery's role is distribute these goods and to set the prices based on how they've kept track of labor. 
+
+The only real problem is that if the monastery doesn't make a particular thing, they can't set a credit price. 
+
+Thankfully, money is still earned through labor by monks working outside the monastery. So if one monk earns 15 dollars an hour and another monk earns 20 an hour, (assuming all other things are equal) the average cost per credit is 17.5 dollars per credit. This is how we can operate within the capitalist system without being completely compromised by it. This will be recalculated every 100 days based on the monks' average earning rate. Though, it will be calculated by portion of money received by each monk and their corresponding wage. (A monk who earns $100 per hour and gives $100 and a monk who earns $10 and gives a $1,000 will not equal a $55 exchange rate.) This is used to simply to set the credit price for money, because we still need money to interact with the market until we can supplant it. (Money would never be used by monks internally.)
+
+Outsiders can get things from us and have their accounts credited but they can also trade goods that we have already priced as part of The Consecrated Machine, their labor, money, or a reasonable trade in value for items they'd like to give us. This is not an expectation for tit for tat, but outsiders are evaluated a little bit more carefully than a monk would. And a note of caution to avoid profiteer motives, the things we receive from outsiders are received primarily with a motivation to ease their debt or to humbly accept a gift. 
+
+Some monks will work harder than others and they should be proud of what they've accomplished. And some monks will work less. But they should not be ashamed. Because The Centrality of Humanity says that we are all imperfect. We are all flawed and fail to live up to expectations. 
+
+Each monk's credit is the closest thing to a hierarchy that will ever exist in the monastery, but it is not hierarchy. It is an exercise of humility. If you look down on your brother and sister who have less credit as evidence that you are better than them, you are wrong. You are less than nothing. You are worthless. You have the soul of a profiteer and the heart of a businessman. You work not for humanity but for yourself and for profit. It is possible to be proud of what you've accomplished without looking down on others.
+
+If a monk creates a beautiful piece of art that took a thousand hours for them to create, would they then charge each person that witnesses it a thousand credits? No. Obviously, no. Now we could create an algorithm that could automatically calculate out a fair credit cost to each person who sees it, but that too is ridiculous. (even more so) So how do we ensure that this type of work is  fairly compensated?
+
+We don't. They created art. They created beauty. The world is a better place for that. They were able to manifest something from the world of imagination in to the real world. And when your material needs are already being met, that's all you really need. Anything else is a profiteer's motive. (People can still send credits though, if they're so inclined.)
+
+There may be an argument that says not all labor is the same. If everyone's paid the same, why would they master a skill? It doesn't matter, right? 
+
+They would master it for the sake of loving what they do, and additionally, monasteries will be in competition with each other so those with those lowest credit price for a good would have the higher demand. 
+
+An hour's worth of a monk's labor is one credit regardless if it's multiple people working on a particular good. It is the duty of the attendant to ensure accurate time records and to lower the cost of all production.
+
+In sum, our credit-based distribution system reflects time, labor, and trust—not wealth. By empowering attendants to gatekeep production and uphold The Sacred Trust, we ensure every good has a meaningful origin and every act of labor honors our community.

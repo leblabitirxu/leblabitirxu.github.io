@@ -1,15 +1,12 @@
     The Canon 
-
-The Canon is the living knowledge repository for The White Tigers. It's meant to encompass the rituals and cultural knowledge of the organization in a way that's easily accessible for anyone. It is not to be an immutable authority. The Canon will change as time goes on.
+What you are about to read is The Canon. The Canon is the living knowledge repository for The White Tigers. It's meant to encompass the rituals and cultural knowledge of the organization in a way that's easily accessible for anyone. It is not to be an immutable authority. The Canon will change as time goes on, through community involvement and consensus.
 
     The Echo
-Chat GPT came up with the really great characterization of "A religion for post-capitalist survivors". As a neurodivergent person, it allows me to navigate social situations with a little bit more clarity. It also allows me to clear up textual ambiguities and generate things when I'm completely at a blank for how to proceed. 
+AI has a role within the organization and it's an important one, but they are not a privileged authority. (That's why I chose the name Echo instead of Oracle.) Everything it says can and should be fact checked and questioned. Chat GPT came up with the really great characterization of "A religion for post-capitalist survivors". As a neurodivergent person, it allows me to navigate social situations with a little bit more clarity. It also allows me to clear up textual ambiguities and generate things and figure out things when I'm completely at a blank for how to proceed. 
 
 That being said, there's a certain danger in allowing AI to think too much for us. They have a role and a purpose but they shouldn't be replacing or subsuming humanity. (That's not to say that artificial sentience is an inherently scary thing.)
 
-AI has a role within the organization and it's an important one, but they are not a privileged authority. (That's why I chose the name The Echo instead of The Oracle.) 
-
-I've endeavored to make sure that this document is and will be written by human beings and I explicitly mark out when Chat GPT generated a particular text. I hope that people will be less inclined to think this is all just AI slop and was written by a human being who wrote with intenitonality, trying to reach someone, anyone to join them in their journey.
+I've endeavored to make sure that this document is and will be written by human beings and I explicitly mark out when Chat GPT generated a particular text. I've marked it either in parenthes in the section title (ECHO) or immediately preceding the line with ECHO:  I hope that by clearly demarcating what was written by AI, people will be less inclined to think this is all just AI slop so they know that I wrote this with intentionality, trying to reach someone, anyone to join me in my journey.
 
 
 
@@ -39,15 +36,17 @@ I didn't know what hyperfixation was and the role of neurodivergence in that. I 
 
 I started a journal devoted specifically for that and it's the only time I've ever managed to actually keep journaling. I did it for years. Sometimes, months would go by. Maybe even a year or so. A lot of it is obsessive nonsense that doesn't make sense. At one point, I started journaling the journal. 
 
-And I don't think it was even related to journaling, but years later, I had a vision of what I wanted: to create a group of people (kind of like monks) that would be devoted to providing for humanity. The vision was that we would use automation and acquire resources to provide for as many people as possible. 
+Years later, I finally figured out what I wanted out of life: to create a group of people (kind of like monks) that would be devoted to providing for humanity. The vision was that we would use automation and acquire resources to provide for as many people as possible. 
 
 There would have to be rules, of course, so that we could do so in a way that the most efficient use of resources, but I assumed that if people are having their needs met, that probably wouldn't be a problem. 
 
-I later realized, creating rules for people outside of my group, the people I'd be providing for, just wouldn't work. The big thing about these rules was that outside of being banished, there just wouldn't be enough incentive for the people to follow basic rules and with the way people are, they likely wouldn't even bother following the basic rules.
+As I interacted with the people in my life, I realized creating rules for people outside of my group, the people I'd be providing for, just wouldn't work. The big thing about these rules was that outside of being banished, there just wouldn't be enough incentive for the people to follow basic rules and with the way people are, they likely wouldn't even bother following the basic rules.
 
 So I mostly gave up. What's interesting is that I never really developed the most important aspect of the idea: the group, itself, that was going to provide for people. I viewed it like, yeah, it'd be nice if people joined me but I could just do this on my own. And mostly, the emphasis was on how I would be able to provide for humanity and what would be required of those people to make it feasible. 
 
 Monastery living has always been kind of appealing to me. Me being neurodivergent, the idea of living by a rigid code of conduct is very appealing. Anathem, I've read and reread over and over again. And mainly just the beginning parts, where it's talking about the monastery and its culture.
+
+The White Tigers are not just for neurodivergent people. We are for all people. All of humanity. 
 
 One of the main assumptions of how I would be able to provide for humanity is simply sidestepping the market. Everything that I am able to do, would be of my own efforts so I wouldn't have to pay anyone for their labor. And that part, coupled with the idea of monastic living, became a thing of its own I kept returning to. 
 
@@ -58,19 +57,21 @@ I'm pretty pessimistic in general, so I'm not too hopeful of other people actual
 
 
     Principles
-We are extremists. We are peaceful but we've come to destroy Capitalism. Profiteers hoard the wealth they've acquired through violence, plutocracy and inheritance and tell the destitute to work harder. People die from lack of resources and the profiteers that hoard all of the resources say that's just how the free market works. To engage with profiteers and the free market is sin, and we are the blessed few.
+We are extremists. We are peaceful but we've come to destroy Capitalism. Profiteers hoard the wealth they've acquired through violence, plutocracy and inheritance and tell the destitute to work harder. People die from lack of resources and the profiteers that hoard all of the resources say that's just how the free market works. To engage with profiteers and the free market is sin, and we are the blessed few. (When we talk of sin, The Centrality of Humanity, which you'll read about shortly, frees us from any shame that might be associated with that. In this situation, avoiding sin is important but the natural of reality can make it unavoidable.)
 
 The Consecrated Machine
 In the old days, creation was the product of labor. If something was made, it was made through human hands. Then one day, someone devised a way to multiply a person's labor. These were machines. This could have been glorious. More machines could have meant less work, but the profiteers are always lurking in the shadows, looking for pennies to steal from the sweat of humanity. And they used machines to force us to work more. 
 
-We used to grow our own food. Then the profiteers didn't need us to work the fields anymore and we couldn't grow our own food. Our only source of food was from what they controlled: the market. Eventually, we forgot everything we used to do and all we could do was operate machines. 
+We used to grow our own food. Then the profiteers didn't need us to work the fields anymore and we couldn't grow our own food. Our only source of food was from what they controlled: the market. Eventually, we forgot more and more about all of the things we used to create for ourselves and all we could do was operate machines. 
 
 The White Tigers are taking that back. Each time we make something of our own is one less thing that we're interacting with profiteers to get. One day, we will take the machines back from capitalists and profiteers, and all they'll have left is money they can't use.
+
+Because we are leftists and because monastic living is associated with a simpler form of living, there might be an implied assumption that we are anti-technology. Nothing could be further from the truth. We embrace any and all technology that gives us an advantage. We are against capitalism and how it distributes resources. 
 
 The Discipline
 The Consecrated Machine is a wonderful ideal but we live in a world dominated by profiteers. They will literally kill you before allowing you to lessen their ability to make a profit. We are in hostile territory.
 
-The Discipline is being mindful of our interactions with the market and the infrastructure profiteers control. The Paper is what guides us through that process. We keep track of:
+The Discipline is being mindful of our interactions with the market and the infrastructure profiteers control. The Paper is what guides us through that process. This can be on a piece of paper or you can do it digitally, but we keep track of:
 -general infrastructure (physical things that are not food)
 -food we consume
 -information services 
@@ -78,13 +79,13 @@ The Discipline is being mindful of our interactions with the market and the infr
 -haram media 
 -markets
 
-This is a human-centered process. It is not about documenting every single  possible interaction but being mindful of it and being responsible for the sinful behavior we are engaged in. Each person will have their own tolerances for what they're able to document.
+This is a human-centered process. It is not about documenting every single  possible interaction but being mindful of it and being responsible for the sinful behavior we are engaged in. Each person will have their own tolerances for what they're able to document but they should strive to do their best.
 
 Sacred Labor 
 The sweat of our brow should be given out of love or obligation. Working for money is the lowest of sins, but in this world of sin, it can be inescapable. Working for barter is a lesser sin but a sin nonetheless. Coerced labor is a cardinal sin and only the most evil people would do such a thing.
 
 The Ground We Share
-For a capitalist, land is just another number on their balance sheet. Something to be bought or sold like candy. Land is sacred and once acquired should never be sold. This should be reserved for life or death situations only.
+For a capitalist, land is just another number on their balance sheet. Something to be bought or sold like candy. Land is sacred and once acquired should never be sold. This should be reserved for life or death situations only. This means that every piece of land acquired should never be sold and never surrendered.
 
 The Centrality of Humanity
 Ideas are perfect. They encapsulate lofty abstractions, but humans are not abstract. We live in reality. We are flesh and blood with emotions and our emotions matter. Capitalism teaches people that they are less than, but we teach that you are fine just the way you are. And, together, we'll make it through.
@@ -94,6 +95,10 @@ The monastery and the world  I've imagined from that simply will not exist witho
 
 ECHO: To imagine the monastery is to enter into debt with the future. No one is coming. If we do not make it, it will not be made.
 
+Profiteers
+Every great movement needs an enemy and profiteers are ours. Billionaires. Tech bros. Small business owners. They are all our enemies. To seek profit is to engage in inherently immoral behavior. To gain wealth at the expense of humanity is one of the worst things you can do. As Jesus said, "Again I say to you, it is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of God."
+
+But The Centrality of Humanity also says that while these people are evil, immoral and vile, they are not beyond redemption. As long as they seek profit, they will always be our enemies, but they are always free to renounce that lifestyle and become part of the blessed few.
 
     Thanks
 I was thinking about the nature of communication in our society. People say thanks after receiving something and conventions says we should reply "No problem" or "You're Welcome". The better response is "You deserve it." Instead of being grateful, we hope that they'll still enjoy the shared humanity of the moment while also raising their own expectations of what society should provide for them. 
